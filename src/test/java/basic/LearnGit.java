@@ -9,6 +9,11 @@ public class LearnGit {
 
 	//from branch b11 + b12 changes
 	public void m1() {
-		System.out.println("code change from b1 and b12..");
+		System.out.println("code change from b11 and b12..");
+	}
+	
+	//add new method from branch b11
+	public void m2() {
+		System.out.println("code change from b11");
 	}
 }
