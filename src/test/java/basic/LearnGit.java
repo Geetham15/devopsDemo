@@ -16,4 +16,9 @@ public class LearnGit {
 	public void m2() {
 		System.out.println("code change from b11");
 	}
+	
+	//going to change the file
+	public void m3() {
+		System.out.println("done with git stash and git stash pop");
+	}
 }
